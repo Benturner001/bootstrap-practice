@@ -94,7 +94,30 @@
   /* .toggle .line2{
    opacity: 0;
   } */
-  .toggle .line3{
+  /* .toggle .line3{
     transform: rotate(45deg) translate(-5px,-6px);
-  }
+  } */
   
+  .container{
+    background-color: #5d4954;
+    float: left;
+    max-width: 100%;
+  }
+  h3{
+    color: whitesmoke;
+    text-transform: capitalize;
+  }
+  .p{
+    /* float: left; */
+    text-align: center;
+    padding-top: 20px;
+
+
+  }
+  .img{
+    /* padding-left: 5%; */
+    /* float: right; */
+    align-content: center;
+    padding-top: 30px;
+    padding-left: 90px;
+  }
