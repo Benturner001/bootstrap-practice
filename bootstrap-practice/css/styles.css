@@ -2,20 +2,20 @@
     margin: 0px;
     padding: 0px;
 }
- nav{ */
+ nav{ 
     display: flex;
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
     background-color: #5d4954;
     font-family: 'Poppins', sans-serif;
-  } */
-  /* .logo{
+  } 
+  .logo{
     color: whitesmoke;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-size: 20px;
-  } */
+  }
   /* .nav-links{
     display: flex;
     justify-content: space-around;
