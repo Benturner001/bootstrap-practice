@@ -68,9 +68,9 @@
       transform: translate(100%);
       transition: transform 0.5s ease-in;
     } 
-    /* .nav-links li{
+    .nav-links li{
       opacity: 0;
-    } */
+    } 
     /* .makeIt{
       display: block;
     } */
