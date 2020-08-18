@@ -28,13 +28,13 @@
     background: #37f;
     font-weight: bold;
   } 
-  /* .nav-links a{
+  .nav-links a{ 
     color: whitesmoke;
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
     font-size: 14px;
-  } */
+  } 
   /* .makeIt{
     display: none;
     cursor: pointer;
