@@ -21,9 +21,9 @@
     justify-content: space-around;
     width: 30%;
   } 
-  /* .nav-links li{
+  .nav-links li{ 
     list-style: none;
-  } */
+  } 
   /* ul li:hover{
     background: #37f;
     font-weight: bold;
