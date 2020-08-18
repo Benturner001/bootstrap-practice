@@ -71,13 +71,12 @@
     .nav-links li{
       opacity: 0;
     } 
-    /* .makeIt{
+    .makeIt{
       display: block;
-    } */
-  /* }
+    } 
   .nav-active{
     transform: translateX(0%)
-  } */
+  } 
   /* @keyframes navLinkFade{
     from{
         opacity: 0;
