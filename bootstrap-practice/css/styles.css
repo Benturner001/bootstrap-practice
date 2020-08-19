@@ -137,4 +137,15 @@ h3{
   .pix{
     color: whitesmoke;
   }
+  .call{
+    background-color: #5d4954;
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+
+  }
+  h4{
+    font-weight: bold;
+    text-transform: uppercase;
+  }
   
