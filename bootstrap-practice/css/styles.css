@@ -103,7 +103,7 @@
     max-width: 100%;
   } 
 h2{
-  text-transform: capitalize;
+  text-transform: uppercase;
  }
 h3{
     color: whitesmoke;
@@ -148,4 +148,8 @@ h3{
     font-weight: bold;
     text-transform: uppercase;
   }
-  
+  .jumbotron{
+    text-align:center;
+    padding-top: 20px;
+
+  }
