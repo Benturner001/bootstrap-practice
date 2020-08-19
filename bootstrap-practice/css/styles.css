@@ -24,7 +24,7 @@
   .nav-links li{ 
     list-style: none;
   } 
- ul li:hover{
+  ul li:hover{
     background: #37f;
     font-weight: bold;
   } 
@@ -51,7 +51,7 @@
       width: 60%;
     }
   }
- @media screen and (max-width:768px){
+  @media screen and (max-width:768px){
     body{
       overflow-x: hidden;
     } 
@@ -96,36 +96,39 @@
   .toggle .line3{
     transform: rotate(45deg) translate(-5px,-6px);
   }
-  
-  .container{
+}
+.container{
     background-color: #5d4954;
     float: left;
     max-width: 100%;
-  }
-  h3{
+  } 
+h2{
+  text-transform: capitalize;
+ }
+h3{
     color: whitesmoke;
     text-transform: capitalize;
   }
-  .p{
+.p{
     /* float: left; */
     text-align: center;
     padding-top: 20px;
 
 
   }
-  .img{
+.img{
     /* padding-left: 5%; */
     /* float: right; */
     align-content: center;
     padding-top: 30px;
     padding-left: 90px;
   }
-  .pics{
+.pics{
     float: left;
     padding-right: 60px;
     padding-left: 70px;
   }
-  .About{
+.About{
     background-color: #5d4954;
   }
   
