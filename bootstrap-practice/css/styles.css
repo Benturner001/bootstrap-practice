@@ -113,6 +113,7 @@ h3{
     /* float: left; */
     text-align: center;
     padding-top: 20px;
+    color: whitesmoke;
 
 
   }
@@ -122,13 +123,18 @@ h3{
     align-content: center;
     padding-top: 30px;
     padding-left: 90px;
+    /* color: whitesmoke; */
   }
 .pics{
     float: left;
     padding-right: 60px;
     padding-left: 70px;
+    color: whitesmoke;
   }
 .About{
     background-color: #5d4954;
+  }
+  .pix{
+    color: whitesmoke;
   }
   
